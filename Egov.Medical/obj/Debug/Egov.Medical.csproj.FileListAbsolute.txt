@@ -1,0 +1,23 @@
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.exe.config
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.exe
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.pdb
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.Lib.dll
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\bin\Debug\LiteDB.dll
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\bin\Debug\GeneratorName.dll
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.Lib.pdb
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\bin\Debug\LiteDB.xml
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\obj\Debug\Egov.Medical.csprojResolveAssemblyReference.cache
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\obj\Debug\Egov.Medical.exe
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical\obj\Debug\Egov.Medical.pdb
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.exe.config
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.exe
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.pdb
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.Lib.dll
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\bin\Debug\LiteDB.dll
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\bin\Debug\Egov.Medical.Lib.pdb
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\bin\Debug\LiteDB.xml
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\obj\Debug\Egov.Medical.csprojAssemblyReference.cache
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\obj\Debug\Egov.Medical.csproj.CoreCompileInputs.cache
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\obj\Debug\Egov.Medical.csproj.CopyComplete
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\obj\Debug\Egov.Medical.exe
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical\obj\Debug\Egov.Medical.pdb

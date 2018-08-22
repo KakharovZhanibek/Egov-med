@@ -1,0 +1,17 @@
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical.Lib\bin\Debug\Egov.Medical.Lib.dll
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical.Lib\bin\Debug\Egov.Medical.Lib.pdb
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical.Lib\bin\Debug\GeneratorName.dll
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical.Lib\bin\Debug\LiteDB.dll
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical.Lib\bin\Debug\LiteDB.xml
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical.Lib\obj\Debug\Egov.Medical.Lib.csprojResolveAssemblyReference.cache
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical.Lib\obj\Debug\Egov.Medical.Lib.dll
+C:\Users\ГерценЕ\Documents\Visual Studio 2015\Projects\Egov.Medical\Egov.Medical.Lib\obj\Debug\Egov.Medical.Lib.pdb
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\bin\Debug\Egov.Medical.Lib.dll
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\bin\Debug\Egov.Medical.Lib.pdb
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\bin\Debug\LiteDB.dll
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\bin\Debug\LiteDB.xml
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\obj\Debug\Egov.Medical.Lib.csprojAssemblyReference.cache
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\obj\Debug\Egov.Medical.Lib.csproj.CoreCompileInputs.cache
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\obj\Debug\Egov.Medical.Lib.csproj.CopyComplete
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\obj\Debug\Egov.Medical.Lib.dll
+C:\Users\ОмаровК\Desktop\12.07 C#\ИТОГОВЫЙ ЕГОВ МЕДИКАЛ\Egov.Medical\Egov.Medical.Lib\obj\Debug\Egov.Medical.Lib.pdb
